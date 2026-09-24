@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 6076,
+  "port": 8892,
+  "root_dir": "C:\\Veri_Projeleri",
+  "secure": false,
+  "sock": "",
+  "token": "1be571c32081992a53788e1466b225fbb37f250f4e5e3aaf",
+  "url": "http://localhost:8892/",
+  "version": "2.20.0"
+}
